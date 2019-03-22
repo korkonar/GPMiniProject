@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\ccd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\mpr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\polytope.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\support.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\vec3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\alloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\auxfunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\ccd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\compiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\dbg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\polytope.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\quat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\simplex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\volInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7F6B08B1-892A-3A45-B12F-91F67BD2DD56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4ABFBA17-6E85-34F1-9CE9-D9A3C1C70DD1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{169DCB80-29F2-31C7-9D7F-538E6A451317}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>Practical1_bin</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Practical1_bin.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Practical1_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Practical1_bin.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Practical1_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Practical1_bin.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Practical1_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Practical1_bin.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Practical1_bin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>opengl32.lib;imgui\Debug\imgui.lib;glfw\src\Debug\glfw3.lib;glad\Debug\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Debug/Practical1_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Debug/Practical1_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>opengl32.lib;imgui\Release\imgui.lib;glfw\src\Release\glfw3.lib;glad\Release\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Release/Practical1_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Release/Practical1_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>opengl32.lib;imgui\MinSizeRel\imgui.lib;glfw\src\MinSizeRel\glfw3.lib;glad\MinSizeRel\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/MinSizeRel/Practical1_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/MinSizeRel/Practical1_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glad\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\glfw\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\.;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\external\libigl-imgui\..\imgui\examples;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\external\eigen;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>opengl32.lib;imgui\RelWithDebInfo\imgui.lib;glfw\src\RelWithDebInfo\glfw3.lib;glad\RelWithDebInfo\glad.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/RelWithDebInfo/Practical1_bin.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/RelWithDebInfo/Practical1_bin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1 -BC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1 --check-stamp-file C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\cmake\FindLIBIGL.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\CXXFeatures.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl-config.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCXXCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeRCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeSystem.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1 -BC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1 --check-stamp-file C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\cmake\FindLIBIGL.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\CXXFeatures.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl-config.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCXXCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeRCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeSystem.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1 -BC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1 --check-stamp-file C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\cmake\FindLIBIGL.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\CXXFeatures.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl-config.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCXXCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeRCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeSystem.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1 -BC:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1 --check-stamp-file C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/INFOMGP-Practical1/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.13\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\cmake\FindLIBIGL.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\CXXFeatures.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.CMakeLists.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\DownloadProject.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\LibiglDownloadExternal.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl-config.cmake.in;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\libigl.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeCXXCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeRCCompiler.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\3.13.4\CMakeSystem.cmake;C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\alloc.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\auxfunctions.h" />
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\ccd.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\ccd.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\compiler.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\dbg.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\list.h" />
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\main.cpp" />
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\mpr.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\polytope.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\polytope.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\quat.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\scene.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\simplex.h" />
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\support.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\support.h" />
+    <ClCompile Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\vec3.c">
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">CompileAsC</CompileAs>
+    </ClCompile>
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\vec3.h" />
+    <ClInclude Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\volInt.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\ZERO_CHECK.vcxproj">
+      <Project>{5482EE18-1239-3093-9601-A8DC22115064}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\glad\glad.vcxproj">
+      <Project>{FC21E601-CD42-378A-8608-8C9665CFC192}</Project>
+      <Name>glad</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\glfw\src\glfw.vcxproj">
+      <Project>{B64D18A8-B620-336C-8AE7-DCF6C571D276}</Project>
+      <Name>glfw</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\imgui\imgui.vcxproj">
+      <Project>{FBEB8214-B6AF-3FC3-8A9C-3D0CFFB7F155}</Project>
+      <Name>imgui</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

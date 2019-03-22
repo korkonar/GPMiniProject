@@ -1,0 +1,416 @@
+﻿  main.cpp
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\bind_vertex_attrib_array.cpp(21): warning C4244: 'argument': conversion from '__int64' to 'GLint', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\MeshGL.cpp(144): warning C4244: 'argument': conversion from '__int64' to 'GLsizei', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\MeshGL.cpp(152): warning C4244: 'argument': conversion from '__int64' to 'GLsizei', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\MeshGL.cpp(157): warning C4244: 'argument': conversion from '__int64' to 'GLsizei', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(16): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(23): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(26): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(44): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(45): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(47): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(48): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(49): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(50): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(51): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(52): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(54): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\../material_colors.h(55): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(264): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(313): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(334): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(651): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(652): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(121): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(121): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(149): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(249): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(250): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(295): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\EPS.h(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\EPS.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(617): warning C4244: 'argument': conversion from '__int64' to 'const double', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(622): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(715): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(730): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(731): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(769): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(864): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(871): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\imgui\ImGuiMenu.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\imgui\ImGuiMenu.cpp(366): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\imgui\ImGuiMenu.cpp(389): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include\igl/opengl/glfw/imgui/ImGuiHelpers.h(40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\INFOMGP-Practical1\libigl\cmake\..\include\igl/opengl/glfw/imgui/ImGuiHelpers.h(58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\scene.h(541): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\scene.h(545): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\ortho.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(145): note: see reference to function template instantiation 'void igl::ortho<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\ortho.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\ortho.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\frustum.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(151): note: see reference to function template instantiation 'void igl::frustum<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\frustum.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\frustum.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\writeOBJ.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(468): note: see reference to function template instantiation 'bool igl::writeOBJ<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\two_axis_valuator_fixed_up.cpp(28): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(719): note: see reference to function template instantiation 'void igl::two_axis_valuator_fixed_up<float,float>(const int,const int,const double,const Eigen::Quaternion<float,0> &,const int,const int,const int,const int,Eigen::Quaternion<float,0> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\two_axis_valuator_fixed_up.cpp(38): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\snap_to_canonical_view_quat.cpp(106): warning C4244: 'argument': conversion from 'const double' to 'const Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(881): note: see reference to function template instantiation 'bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\scene.h(496): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(280): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(254): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\scene.h(496): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(290): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(310): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(319): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(322): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(339): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(351): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(363): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(382): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(391): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(403): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(422): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(431): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readMESH.cpp(443): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\per_face_normals.cpp(21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\per_face_normals.cpp(47): note: see reference to function template instantiation 'void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,3,1,0,3,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,3,1,0,3,1>> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(369): note: see reference to function template instantiation 'void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(177): note: see reference to function template instantiation 'bool igl::readOFF<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(382): note: see reference to function template instantiation 'bool igl::readOFF<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\list_to_matrix.cpp(22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(184): note: see reference to function template instantiation 'bool igl::list_to_matrix<double,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(261): note: see reference to function template instantiation 'bool igl::readOBJ<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(399): note: see reference to function template instantiation 'bool igl::readOBJ<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(121): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(157): note: see reference to function template instantiation 'void igl::trackball<Scalarquat>(const double,const double,const Q_type,const Q_type *,const double,const double,const double,const double,Q_type *)' being compiled
+          with
+          [
+              Scalarquat=float,
+              Q_type=float
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(711): note: see reference to function template instantiation 'void igl::trackball<float,float>(const double,const double,const double,const Eigen::Quaternion<float,0> &,const double,const double,const double,const double,Eigen::Quaternion<float,0> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(122): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(123): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(124): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(128): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(129): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(130): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\trackball.cpp(131): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\unproject.cpp(36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\unproject.cpp(65): note: see reference to function template instantiation 'void igl::unproject<Derived,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,1,0,4,1>,Eigen::Matrix<float,3,1,0,3,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,1,0,4,1>> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(730): note: see reference to function template instantiation 'Eigen::Matrix<float,3,1,0,3,1> igl::unproject<float>(const Eigen::Matrix<float,3,1,0,3,1> &,const Eigen::Matrix<float,4,4,0,4,4> &,const Eigen::Matrix<float,4,4,0,4,4> &,const Eigen::Matrix<float,4,1,0,4,1> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\unproject.cpp(36): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\snap_to_canonical_view_quat.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'Q_type'
+          with
+          [
+              Q_type=float
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\snap_to_canonical_view_quat.cpp(106): note: see reference to function template instantiation 'bool igl::snap_to_canonical_view_quat<Scalars>(const Q_type *,const Q_type,Q_type *)' being compiled
+          with
+          [
+              Scalars=float,
+              Q_type=float
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(881): note: see reference to function template instantiation 'bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)' being compiled
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\snap_to_canonical_view_quat.cpp(64): warning C4244: '+=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\snap_to_canonical_view_quat.cpp(92): warning C4244: '=': conversion from 'double' to 'Q_type', possible loss of data
+          with
+          [
+              Q_type=float
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(26): note: see reference to function template instantiation 'bool igl::readOFF<double,int>(FILE *,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(177): note: see reference to function template instantiation 'bool igl::readOFF<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(72): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(85): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(116): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(132): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(140): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOFF.cpp(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(138): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(38): note: see reference to function template instantiation 'bool igl::readOBJ<double,int>(FILE *,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(261): note: see reference to function template instantiation 'bool igl::readOBJ<double,int>(const std::string,std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(142): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(146): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(76): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(99): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(118): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(154): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(160): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(165): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(169): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\readOBJ.cpp(173): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\per_vertex_normals.cpp(65): note: see reference to function template instantiation 'void igl::doublearea<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\per_vertex_normals.cpp(119): note: see reference to function template instantiation 'void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerVertexNormalsWeightingType,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(370): note: see reference to function template instantiation 'void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(25): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(65): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\squared_edge_lengths.cpp(19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\internal_angles.cpp(30): note: see reference to function template instantiation 'void igl::squared_edge_lengths<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\per_vertex_normals.cpp(70): note: see reference to function template instantiation 'void igl::internal_angles<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\squared_edge_lengths.cpp(19): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\colormap.cpp(1359): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\colormap.cpp(1326): note: see reference to function template instantiation 'void igl::colormap<double>(const double [][3],const T,T &,T &,T &)' being compiled
+          with
+          [
+              T=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\colormap.cpp(1402): note: see reference to function template instantiation 'void igl::colormap<double>(const igl::ColorMapType,const T,T &,T &,T &)' being compiled
+          with
+          [
+              T=double
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\colormap.cpp(1382): note: see reference to function template instantiation 'void igl::colormap<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::ColorMapType,const Eigen::MatrixBase<Derived> &,const double,const double,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\parula.cpp(30): note: see reference to function template instantiation 'void igl::colormap<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::ColorMapType,const Eigen::MatrixBase<Derived> &,const bool,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\opengl\ViewerData.cpp(122): note: see reference to function template instantiation 'void igl::parula<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const bool,Eigen::PlainObjectBase<Derived> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\colormap.cpp(1360): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(162): note: see reference to function template instantiation 'void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(72): note: see reference to function template instantiation 'void igl::doublearea<Derived,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(43): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\parallel_for.h(108): warning C4244: 'argument': conversion from 'Index' to 'const int', possible loss of data
+          with
+          [
+              Index=Index
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(199): note: see reference to function template instantiation 'bool igl::parallel_for<Index,igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>>(const Index,const FunctionType &,const size_t)' being compiled
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(167): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(37): note: see reference to function template instantiation 'void igl::sort2<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(162): note: see reference to function template instantiation 'void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(169): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(213): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(39): note: see reference to function template instantiation 'void igl::sort3<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\sort.cpp(215): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\parallel_for.h(133): warning C4018: '<': signed/unsigned mismatch
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\parallel_for.h(109): note: see reference to function template instantiation 'bool igl::parallel_for<Index,igl::parallel_for::<lambda_946a5f5e8ace55b1c74f1e4340b12c92>,igl::parallel_for::<lambda_866582420a11052db64bc10a9448d1c2>,igl::parallel_for::<lambda_946a5f5e8ace55b1c74f1e4340b12c92>>(const Index,const PreFunctionType &,const FunctionType &,const AccumFunctionType &,const size_t)' being compiled
+          with
+          [
+              Index=Index,
+              PreFunctionType=igl::parallel_for::<lambda_946a5f5e8ace55b1c74f1e4340b12c92>,
+              FunctionType=igl::parallel_for::<lambda_866582420a11052db64bc10a9448d1c2>,
+              AccumFunctionType=igl::parallel_for::<lambda_946a5f5e8ace55b1c74f1e4340b12c92>
+          ]
+  c:\users\jomod\documents\uu_gmt\gamephysics\firstpractical\infomgp-practical1\libigl\include\igl\doublearea.cpp(199): note: see reference to function template instantiation 'bool igl::parallel_for<Index,igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>>(const Index,const FunctionType &,const size_t)' being compiled
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_68877b35a93cbac5e1ff095c5c17bfef>
+          ]
+     Creating library C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Release/Practical1_bin.lib and object C:/Users/jomod/Documents/UU_GMT/GamePhysics/FirstPractical/Practical1/Release/Practical1_bin.exp
+ccd.obj : warning LNK4217: locally defined symbol ccdVec3PointSegmentDist2 imported in function __ccdGJKEPA
+polytope.obj : warning LNK4049: locally defined symbol ccdVec3PointSegmentDist2 imported
+ccd.obj : warning LNK4217: locally defined symbol ccdVec3PointTriDist2 imported in function __ccdGJKEPA
+mpr.obj : warning LNK4049: locally defined symbol ccdVec3PointTriDist2 imported
+polytope.obj : warning LNK4049: locally defined symbol ccdVec3PointTriDist2 imported
+main.obj : warning LNK4217: locally defined symbol ccdMPRPenetration imported in function "public: void __cdecl Scene::updateScene(double,double,double,double)" (?updateScene@Scene@@QEAAXNNNN@Z)
+  Practical1_bin.vcxproj -> C:\Users\jomod\Documents\UU_GMT\GamePhysics\FirstPractical\Practical1\Release\Practical1_bin.exe
